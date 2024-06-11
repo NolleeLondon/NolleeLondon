@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @NolleeLondon
-- 👀 I’m interested in Computer Science and Healthcare
-- 🌱 I’m currently learning everything
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning C and C++
 - 💞️ I’m looking to collaborate on everything
+
+  
 
 <!---
 NolleeLondon/NolleeLondon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
