@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NolleeLondon
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning C and C++
+- 🌱 I’m currently learning C++, and java
 - 💞️ I’m looking to collaborate on everything
 
   
